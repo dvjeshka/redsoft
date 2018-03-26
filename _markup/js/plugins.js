@@ -643,8 +643,6 @@
         add: add
     };
 });
-
-
 (function($){
 
     $.fn.twentytwenty = function(options) {
